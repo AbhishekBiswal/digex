@@ -15,8 +15,8 @@ body
 {
 	background: rgba(0,0,0,0.8);
 	color: #fff;
-	line-height: 299px;
 	box-shadow: 0px 0px 1px 2px rgba(0,0,0,0.3);
+	padding: 20px 0;
 }
 .header-h
 {
@@ -42,7 +42,7 @@ div.clear
 {
 	color: #ccc;
 	font-weight: bold;
-	line-height: 65px;
+	line-height: 40px;
 	padding: 0 10px;
 }
 .nav a:hover
